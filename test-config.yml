@@ -1,4 +1,4 @@
-server
+server:
   port: 7000
-user
+user:
   name: shiyiwen
