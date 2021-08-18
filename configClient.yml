@@ -1,5 +1,5 @@
 server:
-  port: 7888
+  port: 7889
 spring:
   application:
     name: CONFIG-CLINET
