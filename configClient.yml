@@ -4,5 +4,5 @@ spring:
   application:
     name: CONFIG-CLINET
 user:
-  name: 12334
+  name: 123345
 
