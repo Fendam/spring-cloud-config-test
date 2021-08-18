@@ -1,9 +1,6 @@
 server:
-  port: 7001
+  port: 7888
 spring:
   application:
     name: CONFIG-CLINET
-  cloud:
-    consul:
-      host: 127.0.0.1
-      port: 8500
+
