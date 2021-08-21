@@ -3,6 +3,10 @@ server:
 spring:
   application:
     name: CONFIG-CLINET
+  rabbitmq:
+    addresses: localhost
+    port: 5672
+    username: guest
+    password: guest
 user:
   name: 1233457
-
